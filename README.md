@@ -1,5 +1,5 @@
 
-= Autorefill =
+## Autorefill ##
 
 1. Install **Node.js**
 1. Install Truffle: `npm install -g truffle`
