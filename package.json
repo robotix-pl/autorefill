@@ -8,7 +8,6 @@
     "contracts",
     "test"
   ],
-  "author": "loziniak",
   "author": "koksyn",
   "license": "MIT",
   "devDependencies": {
@@ -20,7 +19,7 @@
     "ganache-cli": "6.1.8",
     "pify": "^4.0.1",
     "truffle": "^4.1.13",
-    "web3-utils": "^1.0.0-beta.34"
+    "web3-utils": "^1.0.0-beta.42"
   },
   "dependencies": {}
 }
