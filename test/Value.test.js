@@ -64,7 +64,6 @@ contract('Value', async (accounts) => {
       console.log("Transaction fee :", transactionFee, "(" + weiToEther(transactionFee).toString() + ' ETH)');
 
       let etherNeeded = transactionFee * 4.3; // ganache needs it. but why it is calculated like that?
-      // let etherNeeded = transactionFee / 21 * 90;
 
       console.log("The lowest ether amount needed to execute Value contract: ", etherNeeded);
 
